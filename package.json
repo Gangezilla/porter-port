@@ -1,0 +1,22 @@
+{
+  "name": "porter-port",
+  "version": "1.0.0",
+  "description": "Port of the porter stemmer",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gangezilla/porter-port.git"
+  },
+  "author": "Scott Gangemi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Gangezilla/porter-port/issues"
+  },
+  "homepage": "https://github.com/Gangezilla/porter-port#readme",
+  "devDependencies": {
+    "jest": "^24.3.1"
+  }
+}
